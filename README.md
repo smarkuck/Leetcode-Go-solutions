@@ -7,6 +7,7 @@
 <!-- end of the list -->
 10. Regular Expression Matching
 <!-- end of the list -->
+12. Integer to Roman
 13. Roman to Integer
 <!-- end of the list -->
 37. Sudoku Solver
