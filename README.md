@@ -5,4 +5,6 @@
 4. Median of Two Sorted Arrays
 5. Longest Palindromic Substring
 <!-- end of the list -->
+10. Regular Expression Matching
+<!-- end of the list -->
 37. Sudoku Solver
