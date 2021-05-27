@@ -13,3 +13,5 @@
 32. Longest Valid Parentheses
 <!-- end of the list -->
 37. Sudoku Solver
+<!-- end of the list -->
+695. Max Area of Island
