@@ -14,4 +14,6 @@
 <!-- end of the list -->
 37. Sudoku Solver
 <!-- end of the list -->
+317. Shortest Distance from All Buildings
+<!-- end of the list -->
 695. Max Area of Island
