@@ -14,6 +14,8 @@
 <!-- end of the list -->
 37. Sudoku Solver
 <!-- end of the list -->
+42. Trapping Rain Water
+<!-- end of the list -->
 127. Word Ladder
 <!-- end of the list -->
 297. Serialize and Deserialize Binary Tree
