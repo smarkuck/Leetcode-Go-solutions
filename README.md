@@ -16,6 +16,8 @@
 <!-- end of the list -->
 42. Trapping Rain Water
 <!-- end of the list -->
+56. Merge Intervals
+<!-- end of the list -->
 73. Set Matrix Zeroes
 <!-- end of the list -->
 127. Word Ladder
