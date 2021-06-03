@@ -16,6 +16,8 @@
 <!-- end of the list -->
 42. Trapping Rain Water
 <!-- end of the list -->
+73. Set Matrix Zeroes
+<!-- end of the list -->
 127. Word Ladder
 128. Longest Consecutive Sequence
 <!-- end of the list -->
