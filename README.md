@@ -27,6 +27,8 @@
 <!-- end of the list -->
 213. House Robber II
 <!-- end of the list -->
+228. Summary Ranges
+<!-- end of the list -->
 297. Serialize and Deserialize Binary Tree
 <!-- end of the list -->
 317. Shortest Distance from All Buildings
