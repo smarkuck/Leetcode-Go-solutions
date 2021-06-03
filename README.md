@@ -17,6 +17,7 @@
 42. Trapping Rain Water
 <!-- end of the list -->
 127. Word Ladder
+128. Longest Consecutive Sequence
 <!-- end of the list -->
 200. Number of Islands
 <!-- end of the list -->
