@@ -42,6 +42,8 @@
 <!-- end of the list -->
 329. Longest Increasing Path in a Matrix
 <!-- end of the list -->
+543. Diameter of Binary Tree
+<!-- end of the list -->
 695. Max Area of Island
 <!-- end of the list -->
 733. Flood Fill
