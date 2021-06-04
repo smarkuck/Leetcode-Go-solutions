@@ -53,3 +53,5 @@
 733. Flood Fill
 <!-- end of the list -->
 815. Bus Routes
+<!-- end of the list -->
+1198. Find Smallest Common Element in All Rows
