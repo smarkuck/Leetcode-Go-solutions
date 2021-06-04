@@ -36,6 +36,8 @@
 <!-- end of the list -->
 297. Serialize and Deserialize Binary Tree
 <!-- end of the list -->
+301. Remove Invalid Parentheses
+<!-- end of the list -->
 317. Shortest Distance from All Buildings
 <!-- end of the list -->
 332. Reconstruct Itinerary
