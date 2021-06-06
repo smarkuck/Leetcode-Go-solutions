@@ -39,6 +39,8 @@
 <!-- end of the list -->
 228. Summary Ranges
 <!-- end of the list -->
+261. Graph Valid Tree
+<!-- end of the list -->
 295. Find Median from Data Stream
 <!-- end of the list -->
 297. Serialize and Deserialize Binary Tree
