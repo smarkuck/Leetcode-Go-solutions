@@ -1,38 +1,25 @@
 package leetcode
 
 import (
-	"strings"
 	"testing"
 )
 
-type WordBreaker struct {
-	s        string
-	wordDict []string
-	itFailed map[int]bool
-}
-
-func newWordBreaker(s string, wordDict []string) *WordBreaker {
-	return &WordBreaker{s: s, wordDict: wordDict, itFailed: map[int]bool{}}
-}
-
 func wordBreak(s string, wordDict []string) bool {
-	return newWordBreaker(s, wordDict).resolve(0)
-}
-
-func (wb *WordBreaker) resolve(start int) bool {
-	if start == len(wb.s) {
-		return true
+	words := make(map[string]bool)
+	for _, word := range wordDict {
+		words[word] = true
 	}
-	if wb.itFailed[start] {
-		return false
-	}
-	for _, word := range wb.wordDict {
-		if strings.HasPrefix(wb.s[start:], word) && wb.resolve(start+len(word)) {
-			return true
+	dp := make(map[int]bool)
+	dp[0] = true
+	for i := 1; i <= len(s); i++ {
+		for j := range dp {
+			if words[s[j:i]] {
+				dp[i] = true
+				break
+			}
 		}
 	}
-	wb.itFailed[start] = true
-	return false
+	return dp[len(s)]
 }
 
 func TestWordBreak(t *testing.T) {
