@@ -30,6 +30,7 @@
 127. Word Ladder
 128. Longest Consecutive Sequence
 <!-- end of the list -->
+138. Copy List with Random Pointer
 139. Word Break
 <!-- end of the list -->
 200. Number of Islands
