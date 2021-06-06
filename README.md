@@ -55,6 +55,8 @@
 <!-- end of the list -->
 543. Diameter of Binary Tree
 <!-- end of the list -->
+636. Exclusive Time of Functions
+<!-- end of the list -->
 695. Max Area of Island
 <!-- end of the list -->
 729. My Calendar I
