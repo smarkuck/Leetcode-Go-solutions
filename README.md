@@ -20,6 +20,8 @@
 <!-- end of the list -->
 73. Set Matrix Zeroes
 <!-- end of the list -->
+98. Validate Binary Search Tree
+<!-- end of the list -->
 103. Binary Tree Zigzag Level Order Traversal
 <!-- end of the list -->
 119. Pascal's Triangle II
