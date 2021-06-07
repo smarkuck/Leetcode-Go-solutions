@@ -41,6 +41,8 @@
 138. Copy List with Random Pointer
 139. Word Break
 <!-- end of the list -->
+167. Two Sum II - Input array is sorted
+<!-- end of the list -->
 200. Number of Islands
 <!-- end of the list -->
 208. Implement Trie (Prefix Tree)
