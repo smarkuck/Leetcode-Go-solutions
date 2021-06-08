@@ -40,6 +40,8 @@
 127. Word Ladder
 128. Longest Consecutive Sequence
 <!-- end of the list -->
+131. Palindrome Partitioning
+<!-- end of the list -->
 133. Clone Graph
 <!-- end of the list -->
 138. Copy List with Random Pointer
