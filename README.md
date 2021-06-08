@@ -24,6 +24,8 @@
 <!-- end of the list -->
 62. Unique Paths
 <!-- end of the list -->
+71. Simplify Path
+<!-- end of the list -->
 73. Set Matrix Zeroes
 <!-- end of the list -->
 98. Validate Binary Search Tree
