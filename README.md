@@ -105,3 +105,5 @@
 <!-- end of the list -->
 1197. Minimum Knight Moves
 1198. Find Smallest Common Element in All Rows
+<!-- end of the list -->
+1249. Minimum Remove to Make Valid Parentheses
