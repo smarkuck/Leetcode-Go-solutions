@@ -47,6 +47,8 @@
 138. Copy List with Random Pointer
 139. Word Break
 <!-- end of the list -->
+146. LRU Cache
+<!-- end of the list -->
 167. Two Sum II - Input array is sorted
 <!-- end of the list -->
 173. Binary Search Tree Iterator
