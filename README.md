@@ -111,3 +111,5 @@
 1198. Find Smallest Common Element in All Rows
 <!-- end of the list -->
 1249. Minimum Remove to Make Valid Parentheses
+<!-- end of the list -->
+1396. Design Underground System
