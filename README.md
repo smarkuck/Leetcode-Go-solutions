@@ -14,6 +14,7 @@
 <!-- end of the list -->
 17. Letter Combinations of a Phone Number
 <!-- end of the list -->
+31. Next Permutation
 32. Longest Valid Parentheses
 <!-- end of the list -->
 37. Sudoku Solver
