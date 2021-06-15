@@ -24,6 +24,8 @@
 <!-- end of the list -->
 49. Group Anagrams
 <!-- end of the list -->
+54. Spiral Matrix
+<!-- end of the list -->
 56. Merge Intervals
 <!-- end of the list -->
 62. Unique Paths
