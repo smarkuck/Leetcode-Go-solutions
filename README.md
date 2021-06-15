@@ -113,6 +113,8 @@
 <!-- end of the list -->
 733. Flood Fill
 <!-- end of the list -->
+740. Delete and Earn
+<!-- end of the list -->
 767. Reorganize String
 <!-- end of the list -->
 787. Cheapest Flights Within K Stops
