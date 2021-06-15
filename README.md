@@ -129,6 +129,8 @@
 <!-- end of the list -->
 1041. Robot Bounded In Circle
 <!-- end of the list -->
+1152. Analyze User Website Visit Pattern
+<!-- end of the list -->
 1197. Minimum Knight Moves
 1198. Find Smallest Common Element in All Rows
 <!-- end of the list -->
