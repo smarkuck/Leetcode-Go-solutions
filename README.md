@@ -24,6 +24,7 @@
 <!-- end of the list -->
 42. Trapping Rain Water
 <!-- end of the list -->
+48. Rotate Image
 49. Group Anagrams
 <!-- end of the list -->
 54. Spiral Matrix
