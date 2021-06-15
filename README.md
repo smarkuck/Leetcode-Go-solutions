@@ -14,6 +14,8 @@
 <!-- end of the list -->
 17. Letter Combinations of a Phone Number
 <!-- end of the list -->
+22. Generate Parentheses
+<!-- end of the list -->
 31. Next Permutation
 32. Longest Valid Parentheses
 33. Search in Rotated Sorted Array
