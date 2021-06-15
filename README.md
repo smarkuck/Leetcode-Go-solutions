@@ -16,6 +16,7 @@
 <!-- end of the list -->
 31. Next Permutation
 32. Longest Valid Parentheses
+33. Search in Rotated Sorted Array
 <!-- end of the list -->
 37. Sudoku Solver
 <!-- end of the list -->
