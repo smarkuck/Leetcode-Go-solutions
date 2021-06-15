@@ -93,6 +93,8 @@
 <!-- end of the list -->
 380. Insert Delete GetRandom O(1)
 <!-- end of the list -->
+443. String Compression
+<!-- end of the list -->
 518. Coin Change 2
 <!-- end of the list -->
 528. Random Pick with Weight
