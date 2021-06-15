@@ -90,6 +90,8 @@
 <!-- end of the list -->
 518. Coin Change 2
 <!-- end of the list -->
+528. Random Pick with Weight
+<!-- end of the list -->
 543. Diameter of Binary Tree
 <!-- end of the list -->
 560. Subarray Sum Equals K
