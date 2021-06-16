@@ -8,23 +8,24 @@ import (
 func calculate(s string) int {
 	cur, i := getNum(s, 0)
 	last := 0
-	for cur2, next := 0, 0; i < len(s); i++ {
+	for ; i < len(s); i++ {
 		if s[i] == '+' {
 			last += cur
-			cur, next = getNum(s, i+1)
+			tmp, next := getNum(s, i+1)
+			cur = tmp
 			i += next
 		} else if s[i] == '-' {
 			last += cur
-			cur, next = getNum(s, i+1)
-			cur *= -1
+			tmp, next := getNum(s, i+1)
+			cur = -tmp
 			i += next
 		} else if s[i] == '*' {
-			cur2, next = getNum(s, i+1)
-			cur *= cur2
+			tmp, next := getNum(s, i+1)
+			cur *= tmp
 			i += next
 		} else if s[i] == '/' {
-			cur2, next = getNum(s, i+1)
-			cur /= cur2
+			tmp, next := getNum(s, i+1)
+			cur /= tmp
 			i += next
 		}
 	}
