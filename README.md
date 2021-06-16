@@ -37,6 +37,8 @@
 <!-- end of the list -->
 73. Set Matrix Zeroes
 <!-- end of the list -->
+79. Word Search
+<!-- end of the list -->
 91. Decode Ways
 <!-- end of the list -->
 98. Validate Binary Search Tree
@@ -68,10 +70,13 @@
 <!-- end of the list -->
 208. Implement Trie (Prefix Tree)
 <!-- end of the list -->
+210. Course Schedule II
+<!-- end of the list -->
 213. House Robber II
 <!-- end of the list -->
 215. Kth Largest Element in an Array
 <!-- end of the list -->
+227. Basic Calculator II
 228. Summary Ranges
 <!-- end of the list -->
 238. Product of Array Except Self
@@ -114,6 +119,7 @@
 <!-- end of the list -->
 733. Flood Fill
 <!-- end of the list -->
+739. Daily Temperatures
 740. Delete and Earn
 <!-- end of the list -->
 767. Reorganize String
@@ -134,6 +140,8 @@
 <!-- end of the list -->
 1197. Minimum Knight Moves
 1198. Find Smallest Common Element in All Rows
+<!-- end of the list -->
+1209. Remove All Adjacent Duplicates in String II
 <!-- end of the list -->
 1249. Minimum Remove to Make Valid Parentheses
 <!-- end of the list -->
