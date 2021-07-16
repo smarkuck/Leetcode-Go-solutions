@@ -66,6 +66,8 @@
 <!-- end of the list -->
 173. Binary Search Tree Iterator
 <!-- end of the list -->
+177. Nth Highest Salary
+<!-- end of the list -->
 200. Number of Islands
 <!-- end of the list -->
 208. Implement Trie (Prefix Tree)
